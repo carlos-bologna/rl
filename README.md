@@ -1,4 +1,4 @@
-# That is my gym of reinforcement learning, welcome.
+# Thit is my gym of reinforcement learning, welcome.
 
 Some tips to run it in Linux (of course).
 
